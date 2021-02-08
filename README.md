@@ -9,7 +9,9 @@ I started learning programming in March 2020 with C++, however I ported my learn
 🎻🎻 Recent Projects 🎻🎻
 - Remedic (Full-Stack Web App) -> A web app for providing a translation service for live medical consultations with a doctor & with improving healthcare services & understanding for ESL or non-english speakers in the UK.
 
-💬💬 Ask Me About 💬💬 MaxMSP, my first experiences with Unity, or my music!
+💬💬 Ask Me About 💬💬 MaxMSP or my first experiences with Unity!
+
+---
 
 ### Tech Experience
 
