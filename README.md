@@ -1,7 +1,7 @@
-### Hey, I'm Alex 🇬🇧🇨🇦🇬🇧🇨🇦
+## Hey, I'm Alex 🇬🇧🇨🇦🇬🇧🇨🇦
 I'm a junior full-stack developer with a passion for all things Typescript!
 
-#### About Me
+### About Me
 I started learning programming in March 2020 with C++, however I ported my learning to Typescript (& by extension Javascript) as I found it balanced my fondness for the strong typing of C and the ability to make things happen! I took a software development bootcamp course, graduating in Feb 2021. I love to mix my fondness for 
 
 😉😉 Hiring? 😉😉 I'm currently available for work based in South East U.K. & open to work in the wider U.K. and Canada.
@@ -11,21 +11,12 @@ I started learning programming in March 2020 with C++, however I ported my learn
 
 💬💬 Ask Me About 💬💬 MaxMSP, my first experiences with Unity, or my music!
 
-#### Tech Experience
+### Tech Experience
 
-**Programming Languages**
-- Spend Most of my time currently with: *Typescript & Javascript*
-- Proficient in: *C#, SQL*
+**Programming Languages** - *Typescript & Javascript, C#, SQL, HTML, CSS, Sass
 
-**Front-End Tech**
-- Experience with: *React, Angular, Electron, Vanilla JS, Sass, Tailwind, Bootstrap, D3*
-- Would like to work more with: *Vue, Ionic, Materialize*
+**Front-End Tech** - *React, Angular, Electron, Vanilla JS, Sass, Tailwind, Bootstrap, D3*
 
-**Back-End Tech**
-- Experience with: *NodeJS, Express, Koa, Apollo Server, GraphQL, MongoDB (with Mongoose), PostgreSQL (with Sequelize, TypeORM & MikrORM)*
-- Would like to work more with: *.NET Core*
+**Back-End Tech** - *NodeJS, Express, Koa, Apollo Server, GraphQL, MongoDB (with Mongoose), PostgreSQL (with Sequelize, TypeORM & MikrORM)*
 
-**Testing**
-- Experience with: Jest, Mocha, React Testing Library, Cypress (for e2e)
-- Would like to work more with: *All of it!!!*
--->
+**Testing** - Experience with: Jest, Mocha, React Testing Library, Cypress (for e2e)
