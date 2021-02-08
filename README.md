@@ -13,10 +13,10 @@ I started learning programming in March 2020 with C++, however I ported my learn
 
 ### Tech Experience
 
-**Programming Languages** - *Typescript & Javascript, C#, SQL, HTML, CSS, Sass
+**Programming Languages** - *Typescript & Javascript, C#, SQL, HTML, CSS, Sass*
 
 **Front-End Tech** - *React, Angular, Electron, Vanilla JS, Sass, Tailwind, Bootstrap, D3*
 
 **Back-End Tech** - *NodeJS, Express, Koa, Apollo Server, GraphQL, MongoDB (with Mongoose), PostgreSQL (with Sequelize, TypeORM & MikrORM)*
 
-**Testing** - Experience with: Jest, Mocha, React Testing Library, Cypress (for e2e)
+**Testing** - Experience with: *Jest, Mocha, React Testing Library, Cypress (for e2e)*
