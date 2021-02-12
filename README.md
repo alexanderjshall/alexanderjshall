@@ -1,5 +1,5 @@
 ## Hey, I'm Alex 🇬🇧🇨🇦🇬🇧🇨🇦
-I'm a junior full-stack developer with a passion for all things Typescript!
+I'm a full stack developer with a passion for all things Typescript!
 
 ### About Me
 I started learning programming in March 2020 with C++, however I ported my learning to Typescript (& by extension Javascript) as I found it balanced my fondness for the strong typing of C and the ability to make things happen! I took a software development bootcamp course, graduating in Feb 2021. I love to learn & create... so needless to say I'm enjoying the start of my career as a programmer!
