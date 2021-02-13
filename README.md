@@ -7,14 +7,14 @@ I'm a full stack developer with a passion for all things Typescript. I work alot
 
 💬 Ask me about my experiments with Tone.js, using Typescript with React, or why I started as a beginner with C++ 😂
 
----
+
 
 ## Current Activities 
 
 - ⌨️ **Developing** - Currently I am working on a polyrhythmic meditation app working with React Native, Electron w/ React & ToneJS.
 - 🧰 **Learning** - Currently I am learning ***Microsoft Azure*** & ***React Native***
 
----
+
 
 ## Recent Projects 🎻
 
@@ -24,7 +24,7 @@ I'm a full stack developer with a passion for all things Typescript. I work alot
 
 <img width="50" alt="Remedic" src="assets/tuck-logo.png" align="left"></img> **Tuck** (Full Stack Web App) -> Designed to minimise food waste, tuck is recipe app that encourages users to add variations to standard recipes, enabling chefs to search by ingredient or popularity, without having to trawl through recipe blogs.
 
----
+
 
 ## My Technical Experience
 
@@ -44,7 +44,7 @@ I'm a full stack developer with a passion for all things Typescript. I work alot
 
 <img height="40" alt="Javascript" src="./assets/jest-logo.png"><img height="40" alt="Javascript" src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4"><img height="40" alt="Javascript" src="https://avatars.githubusercontent.com/u/8770005?s=200&v=4"><img height="40" alt="Javascript" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4">
 
----
+
 
 ## About Me 👨🏻‍💻
 
