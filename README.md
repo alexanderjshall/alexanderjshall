@@ -1,6 +1,7 @@
 # 🇬🇧 Alexander Hall 🇨🇦 
 
-Fully Full-Stack developer currently working for Fundapps <img width="80" alt="FundApps src="https://user-images.githubusercontent.com/63590877/123514011-3e0f0480-d688-11eb-83e4-691ab4a3b52d.png">
+Fully Full-Stack developer currently working for Fundapps ![akfbpm7chgopm29lbvg3](https://user-images.githubusercontent.com/63590877/123514538-6d734080-d68b-11eb-8a30-5ddb8958985d.png)
+
 Part-time musician and choral director. Weekend kayaker.
 
 📮 You can reach me at: alexanderjshall@gmail.com 
