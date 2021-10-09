@@ -3,7 +3,6 @@
 :thumbsup: Thank you in advance for reviewing this PR. Please use the following commands as guide when reviewing:
 
 - Excellent :thumbsup: `:thumbsup:`
-
 - Blocker :stop_sign: `:stop_sign:`
 - Warning ⚠️ `:warning:`
 - Preference 🤷 `:shrug:`
