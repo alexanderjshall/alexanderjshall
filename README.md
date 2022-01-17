@@ -1,5 +1,5 @@
 # Alexander Hall
-AKA - Melodic Coder
+AKA - Taking Code On A Walk
 
 Software engineer working across all the stacks, currently working for Fundapps 
 
