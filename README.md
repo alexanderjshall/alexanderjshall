@@ -1,4 +1,5 @@
 # Alexander Hall
+AKA - Melodic Coder
 
 Software engineer working across all the stacks, currently working for Fundapps 
 
