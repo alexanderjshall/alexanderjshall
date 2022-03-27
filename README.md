@@ -1,5 +1,5 @@
 # Alexander Hall
-AKA - Taking Code On A Walk
+AKA - <i>Look Mum! No Handlebars!</i>
 
 Software engineer working across all the stacks, currently working for Fundapps 
 
