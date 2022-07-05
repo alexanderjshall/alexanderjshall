@@ -1,11 +1,11 @@
-# Alexander Hall
-AKA - <i>Look Mum! No Handlebars!</i>
+# :wave: Hey! I'm Alex
+:computer: Software Engineer working across the fullest of stacks
 
-Software engineer working across all the stacks, currently working for Fundapps 
+:book: Educating beginners as <i>Look Mum! No Handlebars!</i>
 
-<code><img height="40" alt="Fundapps" src="https://user-images.githubusercontent.com/63590877/123514538-6d734080-d68b-11eb-8a30-5ddb8958985d.png"></code>
+<img height="20" alt="Fundapps" src="https://user-images.githubusercontent.com/63590877/123514538-6d734080-d68b-11eb-8a30-5ddb8958985d.png"> Working as a Software Engineer for FundApps.
 
-Part-time musician, composer and choral director. Weekend kayaker, eco-enthusiast & electoral reformer
+:guitar: Part-time musician, composer and choral director. Weekend kayaker, eco-enthusiast & electoral reformer
 
 📮 You can reach me at: alexanderjshall@gmail.com 
 
@@ -13,7 +13,9 @@ Part-time musician, composer and choral director. Weekend kayaker, eco-enthusias
 
 **Programming Languages**
   
-<img height="100" alt="CSharp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"><img height="100" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><img height="100" alt="FSharp" src="http://www.roundcrisis.com/presentations/fsharp_oss/images/fsharp_logo.png"><img height="100" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="100" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="100" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="100" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+Expert in: <img height="40" alt="CSharp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"><img height="40" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><img height="40" alt="FSharp" src="http://www.roundcrisis.com/presentations/fsharp_oss/images/fsharp_logo.png"><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+
+Sometimes work with:
 
 **Front-end technologies**
 
